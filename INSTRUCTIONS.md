@@ -1,8 +1,7 @@
-<img align="left"  width="150" height="150" src=".github/rviewer_logo--dark.png" />
 
-## Rviewer skeleton: Python, Flask & PostgreSQL
 
-[![Twitter](https://img.shields.io/badge/rviewer__-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Rviewer_/)
+##  skeleton: Python, Flask & PostgreSQL
+
 
 <br/>
 
@@ -51,18 +50,3 @@ organize your code around
 a [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html).
 
 You can use this as a starting point to continue with this architecture, or adapt it to your preferences.
-
-## Support
-
-If you are having problems or need anything else, please let us know by
-[raising a new issue](https://github.com/Rviewer-Challenges/api-skeleton-py-flask/issues/new/choose).
-
-## License
-
-This project is licensed with the [MIT license](LICENSE).
-
---- 
-
-<p align="center">
-  Made with ❤️ by <a href="https://rviewer.io">Rviewer</a>
-</p>
