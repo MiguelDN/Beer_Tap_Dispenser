@@ -7,6 +7,11 @@ That's why some promoters are developing an MVP for new festivals. Bar counters 
 a beer. This will help make the waiting time much faster, making festival attendees happier and concerts even more
 crowded, avoiding delays!
 
+<<<<<<< HEAD
+=======
+<p align="center">
+</p>
+>>>>>>> 8c1180ba6a8d97a2e6619fcc67ead198924cf6ca
 
 ## How it works?
 
@@ -32,3 +37,10 @@ At the end of the event, the promoters will want to know how much money they mak
 provide some information about how many times a dispenser was used, for how long, and how much money was made with each
 service.
 
+<<<<<<< HEAD
+=======
+> ⚠️ The promoters could check how much money was spent on each dispenser while an attendee is taking beer!
+> So you have to control that by calculating the time diff between the tap opening and the request time
+
+---
+>>>>>>> 8c1180ba6a8d97a2e6619fcc67ead198924cf6ca
